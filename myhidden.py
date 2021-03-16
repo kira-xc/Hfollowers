@@ -41,7 +41,7 @@ else:
         start+=25
 cpt=0
 print("done !")
-yyy=input(" you have ",len(listall)," hidden and banned follower \ndo you delete him ? : ")
+yyy=input(" you have "+str(len(listall)+" hidden and banned follower \ndo you delete him ? : ")
 if yyy=="y":
     for x in listall:
         cpt+=1
