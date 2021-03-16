@@ -3,6 +3,17 @@
 Hidden followers
 ## install 
 ```
+apt update
+```
+#### for termux 
+```
+apt install python git -y
+```
+#### for linux 
+```
+sudo apt install python3 git -y
+```
+```
 git clone https://github.com/kira-xc/Hfollowers
 ```
 ```
